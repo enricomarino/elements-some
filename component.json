@@ -1,0 +1,11 @@
+{
+  "name": "elements-some",
+  "repo": "enricomarino/elements-some",
+  "description": "some, plugin for elements",
+  "version": "0.0.1",
+  "keywords": ["elements", "some"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
